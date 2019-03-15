@@ -1,0 +1,13 @@
+#font-face {
+    font-family: 'Brandon';
+    src: url('Brandon_med.otf');
+}
+
+.label {
+    -fx-font-family: 'Brandon';
+    -fx-font-size: 40;
+}
+
+.button .text {
+    -fx-font-family: 'Brandon';
+}
